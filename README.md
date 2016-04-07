@@ -1,4 +1,4 @@
 # Litainer
-header only, no 3rd Container
+All contrainers is header-only, 3rd-independent , use alone, one-file available.
 
 ## LruCache
