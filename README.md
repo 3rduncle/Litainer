@@ -1,4 +1,6 @@
 # Litainer
-All contrainers is header-only, 3rd-independent , one-file available.
+All contrainers is header-only, 3rd-independent.
 
 ## LruCache
+
+## BloomFilter
