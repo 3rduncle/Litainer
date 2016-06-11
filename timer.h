@@ -20,7 +20,7 @@ public:
     */
     //默认输出毫秒
     int64_t elapsed() const {
-        return std::chrono::duration_cast<chrono::milliseconds>(
+        return std::chrono::duration_cast<std::chrono::milliseconds>(
                 std::chrono::high_resolution_clock::now() - _begin).count();
     }
     //微秒
